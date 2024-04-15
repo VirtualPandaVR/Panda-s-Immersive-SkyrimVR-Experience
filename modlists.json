@@ -1,6 +1,6 @@
 [
   {
-    "title": "Panda\u0027s Immersive SkyrimVR Experience",
+    "title": "Panda's Sovngarde",
     "description": "Designed to be the most immersive and best-looking SkyrimVR experience possible.",
     "author": "Virtual Panda",
     "maintainers": [
@@ -15,7 +15,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/VirtualPandaVR/Panda-s-Immersive-SkyrimVR-Experience/main/SkyrimModlistThumbnail.png",
+      "image": "https://raw.githubusercontent.com/VirtualPandaVR/Panda-s-Immersive-SkyrimVR-Experience/main/Panda's%20Sovngarde%20Thumbnail.png",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/95028",
       "download": "https://authored-files.wabbajack.org/Panda\u0027s Immersive SkyrimVR Experience.wabbajack_b799dd4d-ffa6-49a4-8d23-d87a92675d7b",
       "machineURL": "PISE",
