@@ -1,36 +1,37 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Panda's Immersive SkyrimVR Experience",
+    "title": "Panda\u0027s Immersive SkyrimVR Experience",
     "description": "Designed to be the most immersive and best-looking SkyrimVR experience possible.",
     "author": "Virtual Panda",
     "maintainers": [
       "github/VirtualPandaVR"
     ],
     "game": "skyrimvr",
-    "tags": [
-    ],
+    "official": false,
+    "tags": [],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/VirtualPandaVR/Panda-s-Immersive-SkyrimVR-Experience/main/SkyrimModlistThumbnail.png",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/95028",
-      "download": "https://authored-files.wabbajack.org/Panda's%20Immersive%20SkyrimVR%20Experience.wabbajack_6d1d34be-4e61-4c81-9437-38f8447c78d9",
+      "download": "https://authored-files.wabbajack.org/Panda\u0027s Immersive SkyrimVR Experience.wabbajack_b799dd4d-ffa6-49a4-8d23-d87a92675d7b",
       "machineURL": "PISE",
       "discordURL": "https://discord.gg/zC7KgFpC7v"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "XoU7cBSiH98=",
-      "Size": 8586896232,
-      "NumberOfArchives": 1876,
-      "SizeOfArchives": 193140622873,
-      "NumberOfInstalledFiles": 247670,
-      "SizeOfInstalledFiles": 258610119087
+      "Hash": "OlzS9md/OHI=",
+      "Size": 8587056738,
+      "NumberOfArchives": 1882,
+      "SizeOfArchives": 194072203206,
+      "NumberOfInstalledFiles": 250804,
+      "SizeOfInstalledFiles": 259698463680
     },
-    "version": "0.26",
+    "version": "0.26.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-04-15T00:56:48.4136865Z",
     "repositoryName": ""
   }
 ]
