@@ -1,7 +1,7 @@
 [
   {
-    "title": "Panda's Sovngarde",
-    "description": "Designed to be the most immersive and best-looking SkyrimVR experience possible, Panda's Sovngarde takes you to a Nordic paradise. This carefully curated list stays close to the vanilla game, but upgraded in every way possible with enhanced visuals and immersive VR gameplay. With over 1500 mods and growing, this is the ultimate way to experience SkyrimVR whether you're new to the game or have been playing since 2011.",
+    "title": "Panda\u0027s Sovngarde",
+    "description": "Designed to be the most immersive and best-looking SkyrimVR experience possible, Panda\u0027s Sovngarde takes you to a Nordic paradise. This carefully curated list stays close to the vanilla game, but upgraded in every way possible with enhanced visuals and immersive VR gameplay. With over 1500 mods and growing, this is the ultimate way to experience SkyrimVR whether you\u0027re new to the game or have been playing since 2011.",
     "author": "Virtual Panda",
     "maintainers": [
       "github/VirtualPandaVR"
@@ -15,23 +15,23 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/VirtualPandaVR/Panda-s-Immersive-SkyrimVR-Experience/main/Panda's%20Sovngarde%20Thumbnail.png",
+      "image": "https://raw.githubusercontent.com/VirtualPandaVR/Panda-s-Immersive-SkyrimVR-Experience/main/Panda\u0027s%20Sovngarde%20Thumbnail.png",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/95028",
-      "download": "https://authored-files.wabbajack.org/Panda\u0027s Immersive SkyrimVR Experience.wabbajack_b799dd4d-ffa6-49a4-8d23-d87a92675d7b",
+      "download": "https://authored-files.wabbajack.org/Panda\u0027s Sovngarde.wabbajack_1f677fb8-e893-461a-a022-243a86814aac",
       "machineURL": "PISE",
       "discordURL": "https://discord.gg/zC7KgFpC7v"
     },
     "download_metadata": {
-      "Hash": "OlzS9md/OHI=",
-      "Size": 8587056738,
-      "NumberOfArchives": 1882,
-      "SizeOfArchives": 194072203206,
-      "NumberOfInstalledFiles": 250804,
-      "SizeOfInstalledFiles": 259698463680
+      "Hash": "DnLG0cPZTIQ=",
+      "Size": 9191312017,
+      "NumberOfArchives": 1918,
+      "SizeOfArchives": 193228093686,
+      "NumberOfInstalledFiles": 257040,
+      "SizeOfInstalledFiles": 273880416933
     },
-    "version": "0.26.2",
+    "version": "0.27",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-04-15T00:56:48.4136865Z",
+    "dateUpdated": "2024-04-22T01:25:16.3501617Z",
     "repositoryName": ""
   }
 ]
