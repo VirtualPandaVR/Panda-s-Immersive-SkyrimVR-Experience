@@ -17,21 +17,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/VirtualPandaVR/Panda-s-Immersive-SkyrimVR-Experience/main/Panda\u0027s%20Sovngarde%20Thumbnail.png",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/95028",
-      "download": "https://authored-files.wabbajack.org/Panda\u0027s Sovngarde.wabbajack_83373059-3534-4c75-83ea-b06806f124b3",
+      "download": "https://authored-files.wabbajack.org/Panda\u0027s Sovngarde.wabbajack_d71ac83b-b95f-455f-aa29-14f0da77b513",
       "machineURL": "PISE",
       "discordURL": "https://discord.gg/zC7KgFpC7v"
     },
     "download_metadata": {
-      "Hash": "Wnx6DVo6yBw=",
-      "Size": 9196202326,
-      "NumberOfArchives": 1920,
-      "SizeOfArchives": 193486426277,
-      "NumberOfInstalledFiles": 256709,
-      "SizeOfInstalledFiles": 273165406052
+      "Hash": "0veBZJ0e/Zk=",
+      "Size": 10180711457,
+      "NumberOfArchives": 1987,
+      "SizeOfArchives": 183964509725,
+      "NumberOfInstalledFiles": 244056,
+      "SizeOfInstalledFiles": 261090544394
     },
-    "version": "0.27.1",
+    "version": "0.28",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-04-24T00:01:28.7789024Z",
+    "dateUpdated": "2024-04-30T02:59:20.3460031Z",
     "repositoryName": ""
   }
 ]
