@@ -8,7 +8,14 @@
     ],
     "game": "skyrimvr",
     "official": false,
-    "tags": [],
+    "tags": [
+      "Skyrim VR",
+      "High End Systems",
+      "Vanilla+",
+      "Simonrim",
+      "Immersion",
+      "Visuals"
+    ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
